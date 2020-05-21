@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Helm chart for Kubernetes Image Audit
+name: auditimageservice
+version: 1.0
