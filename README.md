@@ -8,9 +8,9 @@ docker build -t rajinovat/auditimageservice:0.1.0 .
 
 docker login <enter>
 
-username: rajinovat
+username: user
 
-password: Test123456
+password: #########
 
 docker push rajinovat/auditimageservice:0.1.0
 
