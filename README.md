@@ -31,7 +31,9 @@ cd chart/auditimageservice
 helm delete audit --purge 
 
 helm install --name audit  --namespace audit .
-
+  or
+  
+  helm upgrade  audit  .
 
 how to test without ingress
 
